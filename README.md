@@ -1,27 +1,15 @@
 # AngularToDo
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
-## Development server
+## Description 
+This was my first creation with the Angular framework to learn how some of the basics work
+- Angular Forms - Using Angular forms to create a way for the user to pass information to the applcation
+- NgFor - Applying NgFor to loop over a list in an array to create elements of stored inputs from the user
+- NgOnit - Implementing the use of lifecycle methods
+- Anguar Components - Creating and managing different Angular components
+- TypeScript - Using TS in the angular application
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Further Improvements
+This was a solid introduction to Angular and good foundation to spring off allowing me to dive deeper into Angular 
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Dylan Griffiths
